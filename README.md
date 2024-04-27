@@ -1,4 +1,4 @@
-**Emotion-Detection project using CNN (Self-made Architecture)**
+# **Emotion-Detection project using CNN (Self-made Architecture)**
 
 It can detect six emotions one at a time: 1- Angry 2- Happy 3- Sad 4- Surprised 5- Neutral 6- Fearful
 
